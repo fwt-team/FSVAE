@@ -1,4 +1,4 @@
-# Robust Unsupervised Image Categorization Based on Variational Autoencoder with Disentangled Latent Representations
+# paper for 'Robust Unsupervised Image Categorization Based on Variational Autoencoder with Disentangled Latent Representations'
 ## Requirements
   
 To install requirements:
@@ -30,5 +30,13 @@ To train the method(s) in the paper, run this command:
 python train.py -s mnist -n 500 -v v1 -r fsvae -o 0
 ```
 
-
+## reference
+    @article{YANG2022,
+    title = "Robust Unsupervised Image Categorization Based on Variational Autoencoder with Disentangled Latent Representations",
+    author = "Lin Yang and Wentao Fan and Nizar Bouguila",
+    journal = "Knowledge-Based Systems",
+    volume = "0",
+    pages = "1-10",
+    year = "2022"
+    }
 
